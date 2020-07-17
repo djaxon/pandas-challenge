@@ -6,6 +6,8 @@ Use this link to view tables from Jupyter Notebook homework
 
 https://nbviewer.jupyter.org/
 
+Use github link in BCS submission to paste into 'nbviewer' [above]
+
 Heroes of Pymoli Observations:
 
 1. Males dominate purchases and total purchase value, but females spend more per purchase. If I were a marketer or sales lead, I would market games in a package deal  to drive females to make more purchases and larger purchases.
